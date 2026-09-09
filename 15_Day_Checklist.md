@@ -1,0 +1,16 @@
+# 15-Day Checklist
+- [ ] Day 1 Topic + problem statement
+- [ ] Day 2 Literature review
+- [ ] Day 3 Dataset + source/license
+- [ ] Day 4 Preprocessing + visualization
+- [ ] Day 5 Enhancement + augmentation
+- [ ] Day 6 Model selection
+- [ ] Day 7 Model development
+- [ ] Day 8 Continue development
+- [ ] Day 9 Training
+- [ ] Day 10 Testing + tuning
+- [ ] Day 11 Accuracy, precision, recall, F1, confusion matrix
+- [ ] Day 12 Streamlit
+- [ ] Day 13 Documentation
+- [ ] Day 14 PPT + testing
+- [ ] Day 15 Demo + submission
